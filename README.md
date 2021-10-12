@@ -3,7 +3,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jexxer&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Jexxer/convoychat">
-  <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jexxer&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jexxer&layout=compact" />
 </a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
