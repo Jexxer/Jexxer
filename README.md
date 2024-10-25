@@ -3,9 +3,9 @@ If you see a lack of activity here it's because I started working for OnDefend o
 Be assured that I code everyday and am ever polishing my skills!
 
 
-<a href="https://github.com/Jexxer/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jexxer&show_icons=true&theme=tokyonight" />
-</a>
+#<a href="https://github.com/Jexxer/github-readme-stats">
+  #<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jexxer&show_icons=true&theme=tokyonight" />
+#</a>
 <a href="https://github.com/Jexxer/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jexxer&layout=compact" />
 </a>
